@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+h1 img {
+  vertical-align: -15px;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: medium;
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 25px auto;
+}
+
+td {
+  padding: 12px 25px;
+  border: dashed gray 1px;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+a { color: black; }
+a:visited { color: #440044; }
+a:hover { color: #888888; }
